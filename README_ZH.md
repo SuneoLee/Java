@@ -1,6 +1,6 @@
 # Java
 
-##### [Enlish](README.md)
+##### [English](README.md)
 
 ## 项目介绍
 
